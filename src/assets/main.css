@@ -1,0 +1,13 @@
+a {
+    text-decoration: none;
+    padding: 10px 15px;
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+    transition: .3s;
+}
+a:hover {
+    color: white;
+    background-color: black;
+    border-radius: 40px;
+}
